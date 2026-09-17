@@ -14,6 +14,6 @@ int binToDecimal(int binNum) {
     return ans;
 }
 int main() {
-    cout << binToDecimal(1100101) << endl;
+    cout << binToDecimal(11010111) << endl;
     return 0;
 }
