@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n = 50;
+    int n = 5;
     int sum = 0;
 
     //while loop
