@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n = 3;
+    int n = 5;
     bool isPrime = true;
 
     for(int i=2; i<=n-1; i++) {
